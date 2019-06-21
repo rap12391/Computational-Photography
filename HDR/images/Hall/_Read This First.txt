@@ -1,0 +1,112 @@
+Pics to play with: Into the Open (HDR)
+---------------------------------------------------------
+by Klaus Herrmann (farbspiel-photo.com)
+
+
+What is 'Pics to play with'?
+----------------------------
+'Pics to play with' is a feature provided to you by farbspiel-photo.com. Every 'Pics to play with' archive contains the original source images of one of my own HDR images. 
+
+WHAT YOU ARE ALLOWED TO DO WITH THE PHOTOS?
+-------------------------------------------
+You may download, unpack and process these images in whichever way you wish. You may publish the results online wherever you like (see 'SHARING YOUR RESULTS' below) as long as you give credit to me for the source images in the following way:
+
+'Source images copyright by Klaus Herrmann - farbspiel-photo.com - all rights reserved. Go to http://farbspiel-photo.com/ppw for details.'
+
+WHAT YOU ARE *NOT* ALLOWED TO DO WITH THE PHOTOS?
+-------------------------------------------------
+Commercial use of any type is prohibited. If you wish to use the photos commercially, please contact me at farbspiel-photo.com. You are *not* allowed to remove the watermark in any way. Any images that you produce and publish from the contained source photos have to contain the entire watermark. Cropping or cloning out the watermark is not allowed.
+
+DOES IT COST ANYTHING?
+----------------------
+No. The 'Pics to play with' service is free of charge. 
+
+
+About this 'Pics to play with' archive
+--------------------------------------
+
+This 'Pics to play with' archive is containing the source exposures of the HDR image 'Into the Open (HDR)' (http://farbspiel-photo.com/view/images/into-the-open-hdr).
+
+IMAGE INFORMATION
+> Taken with a tripod
+> Twelve exposures (shutter speeds: 30s to 1/60s)
+> Manual bracketing
+> Camera: Nikon D7000
+> Lens: Nikon AF-S DX Nikkor 10-24mm f/3.5-4.5G ED
+> Aperture: f/8
+> ISO 100
+
+Below, you find the details for each of the images: 
+
+Into the Open (HDR) - ppw - 01.tif
+> Shutter speed: 30s
+
+Into the Open (HDR) - ppw - 02.tif
+> Shutter speed: 15s
+
+Into the Open (HDR) - ppw - 03.tif
+> Shutter speed: 8s
+
+Into the Open (HDR) - ppw - 04.tif
+> Shutter speed: 4s
+
+Into the Open (HDR) - ppw - 05.tif
+> Shutter speed: 2s
+
+Into the Open (HDR) - ppw - 06.tif
+> Shutter speed: 1s
+
+Into the Open (HDR) - ppw - 07.tif
+> Shutter speed: 1/2s
+
+Into the Open (HDR) - ppw - 08.tif
+> Shutter speed: 1/4s
+
+Into the Open (HDR) - ppw - 09.tif
+> Shutter speed: 1/8s
+
+Into the Open (HDR) - ppw - 10.tif
+> Shutter speed: 1/15s
+
+Into the Open (HDR) - ppw - 11.tif
+> Shutter speed: 1/30s
+
+Into the Open (HDR) - ppw - 12.tif
+> Shutter speed: 1/60s
+
+
+PROCESSING INFORMATION
+
+The images have been pre-processed in the following way: 
+
+The original three RAW files where pre-processed and converted to TIFFs in Adobe Camera RAW (ACR) in the following way:
+
+> The CA (Chromatic Aberration) was removed
+> The color temperature (white balance) and tint was set to the same value for all images
+> Sharpening and noise reduction was turned off (all sliders to zero)
+> The lens distortion was removed based on the built-in profile for the Nikkor lens
+> All other settings were kept at their default values
+
+The images where exported from ACR as 8-bit TIFFs, and they were watermarked in Photoshop. 
+
+No additional processing was applied.
+
+
+PROCESSING TIPS
+
+Use the source images as you feel appropriate. It is not strictly necessary to use all of them. Visit the image page at http://farbspiel-photo.com/view/images/into-the-open-hdr to get information on my personal workflow for this image. It may serve as a starting point.
+
+NOTE: The source images do contain some noise. Noise reduction was turned off in the Raw converter software to give you images that are as unaltered as possible. I recommend that you apply some NR before you merge the images into and HDR or in your HDR software when you're merging them. 
+
+ADDITIONAL RESOURCES
+
+You can find my final version and additional information like before-and-after comparisons at http://farbspiel-photo.com/view/images/into-the-open-hdr
+
+Take a look at my HDR Cookbook (http://farbspiel-photo.com/hdr-cookbook) for a lot of useful post-processing tips that may help you in improving your techniques.
+
+
+SHARING YOUR RESULTS
+
+Share the result of you post-processing work (the final image) online wherever you like. Make it publicly accessible. No login or membership of any sort should be required to view it. Finally, post a comment on the page for this image (http://farbspiel-photo.com/view/images/into-the-open-hdr) and share the link to your version.
+
+HAVE FUN!
